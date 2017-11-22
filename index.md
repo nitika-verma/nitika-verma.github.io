@@ -11,7 +11,7 @@ image:
 
 <ul>
 
-I am PhD student at <a href="https://www.inria.fr/centre/grenoble">Inria </a> in teams <a href="https://www.inria.fr/centre/grenoble"> Morpheo </a> and <a href="http://thoth.inrialpes.fr/"> Thoth </a>. I am working on 3D representations for Deep Learning under the supervision of <a href="http://morpheo.inrialpes.fr/people/Boyer/"> Edmond Boyer </a> and <a href="http://thoth.inrialpes.fr/people/verbeek/"> Jakob Verbeek </a>.
+I am PhD student at <a href="https://www.inria.fr/centre/grenoble">Inria </a> in teams <a href="http://morpheo.inrialpes.fr/"> Morpheo </a> and <a href="http://thoth.inrialpes.fr/"> Thoth </a>. I am working on 3D representations for Deep Learning under the supervision of <a href="http://morpheo.inrialpes.fr/people/Boyer/"> Edmond Boyer </a> and <a href="http://thoth.inrialpes.fr/people/verbeek/"> Jakob Verbeek </a>.
 
 <br />
 <br />
